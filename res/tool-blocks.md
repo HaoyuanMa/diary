@@ -1,6 +1,7 @@
-### 图片剧中及标注
+- image
+    ```html
 
-<center>
+    <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="这里输入图片地址">
@@ -9,5 +10,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">这里输入题注</div>
-</center>
+    </center>
+    
+    ```
 
