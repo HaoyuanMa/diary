@@ -18,7 +18,7 @@
 ```
 <div>
 {{ site.data.images.pre }}
-{{ site.data.images.base_url }}/
+{{ site.data.images.base_url }}
 {{ page.category }}/{{ page.sub_dir }}
 {{ page.slug }}
 0
