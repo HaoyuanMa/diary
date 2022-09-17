@@ -1,7 +1,7 @@
 pre: '<center> <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="'
 mid: '"><br><div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 2px;">'
 post: '</div></center><br>'
-base_url: https://images.wait4echo.love
+base_url: https://images.wait4echo.love/
 qhbr:
   - https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/b745eded-d392-47b4-a68d-e6ab8a8f186a.jpg
   - https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/8a91dd7a-1f52-42da-9adf-6929fef5c050.jpg

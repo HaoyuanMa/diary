@@ -19,12 +19,12 @@
 <div>
 {{ site.data.images.pre }}
 {{ site.data.images.base_url }}/
-{{ page.category }}/
+{{ page.category }}/{{ page.sub_dir }}
 {{ page.slug }}
-{% increment page.order %}
+0
 {{ page.image_postfix }}
 {{ site.data.images.mid }}
-第一次吃炒南瓜
+注释
 {{ site.data.images.post }}
 </div>
 ```
