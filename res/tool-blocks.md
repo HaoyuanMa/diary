@@ -15,3 +15,17 @@
     
     ```
 
+```
+<div>
+{{ site.data.images.pre }}
+{{ site.data.images.base_url }}/
+{{ page.categories }}/
+{{ page.slug }}
+{% increment page.order %}
+{{ page.image_postfix }}
+{{ site.data.images.mid }}
+第一次吃炒南瓜
+{{ site.data.images.post }}
+</div>
+```
+
